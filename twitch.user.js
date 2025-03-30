@@ -8,7 +8,7 @@
 
 // Does not work for fullscreen due to browsers sucking
 
-var offset = 10;
+var offset = 3;
 var ks = {
     "106": "j",
     "108": "l"
